@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type='text/xsl' href='MassDataHandlerLogFile.xsl'?>
+<LogFile titleName="HMIAlarms Log.xml" projectName="C:\Users\sharp\Desktop\HMIAlarms.xlsx" typeText="Тип" messageText="Сообщение" timeText="Время">
+  <LogEntry type="Warning" dateTime="13:51:10">
+    <Message>Номер сообщения 7: имя Аналоговое сообщение_3 сообщения не уникально и изменяется на Аналоговое сообщение_33. (рабочая таблица 'AnalogAlarms', столбец 'Name', строка 8).</Message>
+  </LogEntry>
+  <LogEntry type="Warning" dateTime="13:51:10">
+    <Message>Номер сообщения 8: имя Аналоговое сообщение_4 сообщения не уникально и изменяется на Аналоговое сообщение_34. (рабочая таблица 'AnalogAlarms', столбец 'Name', строка 9).</Message>
+  </LogEntry>
+  <LogEntry type="Warning" dateTime="13:51:10">
+    <Message>Номер сообщения 9: имя Аналоговое сообщение_5 сообщения не уникально и изменяется на Аналоговое сообщение_35. (рабочая таблица 'AnalogAlarms', столбец 'Name', строка 10).</Message>
+  </LogEntry>
+  <LogEntry type="Warning" dateTime="13:51:10">
+    <Message>Номер сообщения 19: имя Аналоговое сообщение_6 сообщения не уникально и изменяется на Аналоговое сообщение_36. (рабочая таблица 'AnalogAlarms', столбец 'Name', строка 11).</Message>
+  </LogEntry>
+  <LogEntry type="Information" dateTime="13:51:10">
+    <Message>Импорт завершен: 24 битовых сообщений; 10 аналоговых сообщений</Message>
+  </LogEntry>
+</LogFile>
